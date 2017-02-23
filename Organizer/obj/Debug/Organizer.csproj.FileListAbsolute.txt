@@ -1,0 +1,40 @@
+D:\Projects\Me\Organizer\Organizer\bin\Debug\Organizer.exe
+D:\Projects\Me\Organizer\Organizer\bin\Debug\Organizer.pdb
+D:\Projects\Me\Organizer\Organizer\obj\Debug\Organizer.csprojResolveAssemblyReference.cache
+D:\Projects\Me\Organizer\Organizer\obj\Debug\Organizer.DiaryForm.resources
+D:\Projects\Me\Organizer\Organizer\obj\Debug\Organizer.MenuForm.resources
+D:\Projects\Me\Organizer\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+D:\Projects\Me\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.Cache
+D:\Projects\Me\Organizer\Organizer\obj\Debug\Organizer.exe
+D:\Projects\Me\Organizer\Organizer\obj\Debug\Organizer.pdb
+D:\Projects\Me\Organizer\Organizer\obj\Debug\Organizer.PhoneBookForm.resources
+C:\Users\Артур\Desktop\Organizer\Organizer\obj\Debug\Organizer.exe
+C:\Users\Артур\Desktop\Organizer\Organizer\obj\Debug\Organizer.pdb
+C:\Users\Артур\Desktop\Organizer\Organizer\bin\Debug\Organizer.exe
+C:\Users\Артур\Desktop\Organizer\Organizer\bin\Debug\Organizer.pdb
+C:\Users\Артур\Desktop\Organizer\Organizer\obj\Debug\Organizer.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\Organizer\Organizer\obj\Debug\Organizer.DiaryForm.resources
+C:\Users\Артур\Desktop\Organizer\Organizer\obj\Debug\Organizer.MenuForm.resources
+C:\Users\Артур\Desktop\Organizer\Organizer\obj\Debug\Organizer.PhoneBookForm.resources
+C:\Users\Артур\Desktop\Organizer\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+C:\Users\Артур\Desktop\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.Cache
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Debug\Organizer.exe
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Debug\Organizer.pdb
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\bin\Debug\Organizer.exe
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\bin\Debug\Organizer.pdb
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Debug\Organizer.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Debug\Organizer.DiaryForm.resources
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Debug\Organizer.MenuForm.resources
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Debug\Organizer.PhoneBookForm.resources
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.Cache
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Исходник органайзера\Organizer\obj\Debug\Organizer.exe
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Исходник органайзера\Organizer\obj\Debug\Organizer.pdb
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Исходник органайзера\Organizer\obj\Debug\Organizer.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Исходник органайзера\Organizer\obj\Debug\Organizer.DiaryForm.resources
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Исходник органайзера\Organizer\obj\Debug\Organizer.MenuForm.resources
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Исходник органайзера\Organizer\obj\Debug\Organizer.PhoneBookForm.resources
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Исходник органайзера\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Исходник органайзера\Organizer\obj\Debug\Organizer.csproj.GenerateResource.Cache
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Исходник органайзера\Organizer\bin\Debug\Organizer.exe
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Исходник органайзера\Organizer\bin\Debug\Organizer.pdb

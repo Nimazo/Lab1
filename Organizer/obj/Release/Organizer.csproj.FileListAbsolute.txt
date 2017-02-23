@@ -1,0 +1,9 @@
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\bin\Release\Organizer.exe
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\bin\Release\Organizer.pdb
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Release\Organizer.DiaryForm.resources
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Release\Organizer.MenuForm.resources
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Release\Organizer.PhoneBookForm.resources
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Release\Organizer.Properties.Resources.resources
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Release\Organizer.csproj.GenerateResource.Cache
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Release\Organizer.exe
+C:\Users\Артур\Desktop\Университет\2КУРС\Курсач\Organizer\Organizer\obj\Release\Organizer.pdb
